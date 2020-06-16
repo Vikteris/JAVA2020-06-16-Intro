@@ -96,4 +96,4 @@ public class MaxMinElementas {
             masyvas[j] = x;
         }
     }
-
+//Git'o testinimas
