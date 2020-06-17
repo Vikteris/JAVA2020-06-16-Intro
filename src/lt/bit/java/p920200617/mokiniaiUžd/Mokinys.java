@@ -54,12 +54,14 @@ public class Mokinys {
         print(4);
     }
     //Rušiavimas
-       // element sukeitimas
-     //TODO liko surikiuoti plaie klases, palei pavardes, ir palie vardus
+    // element sukeitimas
+    //TODO liko surikiuoti palei klases, palei pavardes, ir palie vardus
+    //Puse darbo lyg ir padariau. bandžiau su ciklu išgaudyt, bet kažka ne taip padarydavau
+
 
     static void print(int index) { //Spausdinimas
         System.out.println(mokiniai[index].vardas + " " +
-                        mokiniai[index].pavarde + " " +
-                        mokiniai[index].klase);
+                mokiniai[index].pavarde + " " +
+                mokiniai[index].klase);
     }
 }
