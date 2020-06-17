@@ -1,7 +1,6 @@
 package lt.bit.java.p920200617.mokiniaiUžd;
 
 import com.sun.xml.internal.bind.v2.TODO;
-import lt.bit.java.p920200617.namai.Lempute;
 
 public class Mokinys {
 
