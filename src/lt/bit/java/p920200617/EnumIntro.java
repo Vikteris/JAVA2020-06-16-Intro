@@ -4,7 +4,7 @@ import lt.bit.java.p920200617.Enums.Color; //🔽
 //Gali buti tas failas su informacija ir kitam kataloge ir
 // su tuo pačiu pavadinimu, ir ji jei nori naudoti galima paimti ji su komanda
 
-public class EnumIntro {
+public class EnumIntro { //klase yra kaip vienas objektas, vienaskaita
     public static void main(String[] args) {
         System.out.println("Enum Intro");       //enum yra- tai sukurtas duomenu tipas, kurie turi
                                                 // fiksuotas reiksmes . enumai nekintamos reikšmes
