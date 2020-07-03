@@ -37,9 +37,18 @@
     *
     *
     * scanneris turi skirtingus metodus. ju daug
+    *
+    *
+    * extend!!!
+    * protected!!!
+    * super!!
+    * instanceof!!
+    * public, private, final
+    * abstract (klase turi buti abstrakti, jei yra bet vienas abstractus metodas yra)
 
      */
 
 
 
 //}
+//i linkedina, Mindaugas Bernatavičius//////////////////////////////////
